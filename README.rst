@@ -14,9 +14,9 @@ so:
 
     pip install flask-fixtures
 
-    If you are going to use JSON as your data serialization format, you
-    should also consider installing the dateutil package since it will
-    add much more powerful and flexible parsing of dates and times.
+If you are going to use JSON as your data serialization format, you
+should also consider installing the dateutil package since it will
+add much more powerful and flexible parsing of dates and times.
 
 To install the library from source simply download the source code, or
 check it out if you have git installed on your system, then just run the
